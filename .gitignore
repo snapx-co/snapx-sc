@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+
+apps/ton/temp
+apps/ton/build
+apps/ton/dist
